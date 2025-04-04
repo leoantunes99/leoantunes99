@@ -8,7 +8,6 @@ Eu sou o Leonardo Antunes, sou programador Front End, atualmente estou aprendend
 
 ## 💻 Conecte-se comigo:
 
-LinkedIn:
 <a href="https://www.linkedin.com/in/leonardo-antunes-8902a6136/">
 <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin-logo" width=22px>
 </a>
