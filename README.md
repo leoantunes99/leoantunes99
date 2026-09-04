@@ -97,16 +97,5 @@ const leoAntunes = {
 <a href="https://SEU_PORTFOLIO.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://wa.me/55SEUNUMERO" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=38BDF8&style=for-the-badge&label=VISUALIZAÇÕES)
 
 </div>
