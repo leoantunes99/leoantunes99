@@ -25,7 +25,7 @@ const leoAntunes = {
 <div align="center">
 
 ### 🎨 Front-end
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,styledcomponents,tailwind,materialui)](https://skillicons.dev)
 
 ### ⚙️ Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,postgres,mongodb)](https://skillicons.dev)
@@ -40,7 +40,8 @@ const leoAntunes = {
 │   │   ├── react/ ⚛️
 │   │   ├── vite/ ⚡
 │   │   ├── tailwind/ 🎨
-│   │   └── styled-components/ 💅
+│   │   ├── styled-components/ 💅
+│   │   └── material ui/ 🖌️
 │   ├── backend/
 │   │   ├── node/ 🟢
 │   │   └── express/ 🚂
