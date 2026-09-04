@@ -70,15 +70,15 @@ const leoAntunes = {
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=leoantunes99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoantunes99&layout=compact&theme=tokyonight&hide_border=true"/> <img src="https://streak-stats.demolab.com/?user=leoantunes99&theme=tokyonight&hide_border=true" /> </div> <br>
-
-## 🐍 Minha atividade
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=leoantunes99&theme=tokyonight&hide_border=true" />
 </div>
 
-> Essa animação da "cobrinha" se atualiza sozinha com base nas suas contribuições — o passo a passo para ativá-la está nas instruções abaixo do README. É um baita "uau" pra quem visita seu perfil 🐍
+## 📈 Minha atividade
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leoantunes99/leoantunes99/output/activity-graph.svg" />
+</div>
 
 <br>
 
