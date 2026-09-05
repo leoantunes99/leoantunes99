@@ -62,6 +62,8 @@ const leoAntunes = {
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=leoantunes99&theme=tokyonight-duo&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+  <img src="./profile-summary-card-output/material_palenight/2-most-commit-language.svg" />
   
 </div>
 
