@@ -28,7 +28,7 @@ const leoAntunes = {
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,styledcomponents,tailwind,materialui)](https://skillicons.dev)
 
 ### ⚙️ Back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,docker,postgres,mongodb)](https://skillicons.dev)
 
 </div>
 
